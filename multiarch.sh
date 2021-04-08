@@ -1,5 +1,5 @@
 #!/bin/sh
-TAG="mancioman2/simplepage:latest"
+TAG="mancioman2/mycertbot:latest"
 PLATFORMS="linux/amd64,linux/arm64,linux/arm/v6,linux/arm/v7"
 
 echo "--- BUILD THE CONTAINER BUILDER --"
